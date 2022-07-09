@@ -1,12 +1,3 @@
-# Easysnap
-
-:neckbeard: [Live demo React client](http://easysnap.surge.sh/)
-
-:sunglasses: [GraphQL Playground](http://206.189.182.169:4001/graphql)
-
-![gif](https://mehmetseven.net/content/images/2018/11/newest.gif)
-
-# Installation
 
 ## 1- Node.JS Server
 
